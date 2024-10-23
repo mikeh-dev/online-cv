@@ -14,8 +14,6 @@ sidebar:
 
     # Sidebar links
     email: mikeh112@hotmail.com
-    phone: 07894 529147
-    timezone: GMT # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: UK
     linkedin: mikehwd
     github: mikeh-dev
@@ -27,7 +25,7 @@ sidebar:
           level: Native
 
 career-profile:
-    title: Career Profile
+    title: Background
     summary: |
       Full Stack Ruby on Rails Developer with 1 year of experience, complemented by 15 years of proven sales expertise in driving revenue growth, managing key accounts, and leading international operations. Currently serving as a Sales/Account Manager, overseeing £1.6M+ in annual revenue.
 
@@ -36,10 +34,12 @@ career-profile:
       Open to part-time or freelance work.
 
 education:
-    title: Development Journey
+    title: Skills
     info:
       - details: |
-          Played around with HTML and Wordpress since I was a teenager and since then webflow but started a more software focused learning path at the end of 2019 with Ruby thanks to the mentorship of a close friend who is a Ruby on Rails veteran.
+          Worked on projects with HTML,CSS and Wordpress since I was a teenager and more recently Webflow. 
+          
+          Began a more software focused learning path at the end of 2019 with Ruby thanks to the mentorship of a close friend who is a Ruby on Rails veteran.
 
           Early learning was with various online platforms inc CS50, Codecademy, Treehouse, Launch School, Udemy with some exposure to C++ and Javascript.
 
@@ -50,9 +50,9 @@ education:
             - Launched www.kartsteam.co.uk in early 2024 and improved and maintained the application ever since.
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Everything
+      - role: Full Stack Rails Developer
         time: 2024 - Present
         company: KartStream
         details: |
@@ -60,18 +60,15 @@ experiences:
             - Ruby on Rails with Hotwire
             - Postgres
             - Tailwind
-            - Stimulus
-            - TDD
-            - Digital Ocean
-            - RSpec
+            - TDD with RSpec
             
       - role: Sales Professional
         time: 2012 - Current
         company: WCW
         details: |
-          Sales / Account Manager / Branch Manager
+          Major Accounts Manager
 
-          Window Cleaning Warehouse Ltd, Various Locations, UK
+          WCW Ltd, Various Locations, UK
           2012 - Present
 
             - Pitched and established a successful capital equipment sales strategy, creating a product range, pricing structure, and distributor network.
