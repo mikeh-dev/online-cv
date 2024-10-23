@@ -27,27 +27,37 @@ sidebar:
 career-profile:
     title: Background
     summary: |
-      Full Stack Ruby on Rails Developer with 1 year of experience, complemented by 15 years of proven sales expertise in driving revenue growth, managing key accounts, and leading international operations. Currently serving as a Sales/Account Manager, overseeing £1.6M+ in annual revenue.
+      A an Early Career Full Stack Ruby on Rails Developer with a year of hands-on experience building and maintaining scalable applications. Familiar with Rails best practices, API integration, and responsive design, I bring a well-rounded technical skill set, supported by knowledge in TDD and deployment on platforms like Digital Ocean and Heroku.
 
-      Seeking a role that blends my technical skills with my business acumen, leveraging my experience in client relationships, problem-solving, and project management. Dedicated to continuous learning and excited to immerse fully in a development team environment.
-
-      Open to part-time or freelance work.
+      My 15 years in sales, where I led strategic initiatives and managed international operations, provide me with strong business acumen, team leadership skills, and a proven track record of turning ideas into profitable solutions. This blend of development expertise and business insight positions me to add value and drive growth in a development team.
 
 education:
     title: Skills
     info:
       - details: |
-          Worked on projects with HTML,CSS and Wordpress since I was a teenager and more recently Webflow. 
+          **Early Development Exposure:**
+
+          Built websites using HTML, CSS, and WordPress.
+
+          Experimented with Webflow for creating modern web experiences.
+
+          **Focused Learning Path (2019 Onwards):**
+
+          Began structured software development learning with Ruby, mentored by a Ruby on Rails veteran.
+
+          Engaged with various learning platforms like CS50, Codecademy, Treehouse, Launch School, and Udemy, gaining exposure to C++, JavaScript, and other technologies.
+
+          **Advancing with Ruby on Rails (2021-Present):**
+
+          Built and iterated on multiple SaaS applications, managing projects independently and ensuring they were challenging enough to grow my skill set.
+
+          Deployed applications on platforms such as Heroku, DigitalOcean, and AWS.
+
+          Developed proficiency in Hotwire, Tailwind CSS, API development, and TDD with RSpec.
           
-          Began a more software focused learning path at the end of 2019 with Ruby thanks to the mentorship of a close friend who is a Ruby on Rails veteran.
-
-          Early learning was with various online platforms inc CS50, Codecademy, Treehouse, Launch School, Udemy with some exposure to C++ and Javascript.
-
-          Moved forward with Ruby on Rails and spent the last couple of years building SaaS applications which I felt where small enough to manage but big enough to learn and challenge myself.
-
-            - Learned basics of deployment on Heroku, Digital Ocean and AWS
-            - Developed skills in Hotwire, Tailwind, API's and TDD Development.
-            - Launched www.kartsteam.co.uk in early 2024 and improved and maintained the application ever since.
+          Implemented CI/CD practices and utilized external APIs for maps, weather, and other location-based information in KartStream.
+          
+          Launched and maintained KartStream (2024), focusing on performance optimization, UI enhancement, and code quality improvements.
 
 experiences:
     title: Experience
@@ -56,11 +66,21 @@ experiences:
         time: 2024 - Present
         company: KartStream
         details: |
-          Built and maintain a full-stack Ruby on Rails application designed for karting clubs, focusing on enhancing UI, performance, and code quality through iterative development.
-            - Ruby on Rails with Hotwire
-            - Postgres
-            - Tailwind
-            - TDD with RSpec
+          Full Stack Rails Developer
+          2024 - Present | KartStream
+
+          **Problem:**
+          Karting clubs needed a platform to manage their events, tracks, and member engagement efficiently. Drivers, parents, and mechanics also required an online reference to access track and event information easily and conveniently, ensuring they had real-time updates and accurate details.
+
+          **Requirement:**
+          The solution had to be a user-friendly, scalable application that enhanced the user interface, optimized performance, and integrated with external services like maps and weather for location-specific features. It also needed to allow data sharing with other applications via APIs.
+
+          **Solution:**
+          Developed and maintain a full-stack Ruby on Rails application that meets these requirements, focusing on performance optimization and UI enhancement through iterative code refinement.
+
+          Tech Stack: Ruby on Rails, Hotwire, Postgres, Tailwind CSS, RSpec (TDD), CI/CD pipelines, and external APIs for location and weather services.
+
+          Built and exposed APIs to share data with external services, demonstrating the application’s capability to integrate and provide valuable information beyond its own platform.
             
       - role: Sales Professional
         time: 2012 - Current
@@ -71,8 +91,8 @@ experiences:
           WCW Ltd, Various Locations, UK
           2012 - Present
 
-            - Pitched and established a successful capital equipment sales strategy, creating a product range, pricing structure, and distributor network.
-            - Independently managed the company’s largest accounts, contributing to over £1.6 million in annual sales across UK and international markets.
+            - Established a successful capital equipment sales strategy, creating a product range, pricing structure, and distributor network.
+            - Maintained and grew the company’s largest accounts, contributing to over £1.6 million in annual sales across UK and international markets.
             - Achieved consistent year-on-year sales growth for 12 years.
             - Developed a distributor program across 15 countries, expanding international sales to over 30 countries.
-            - Opened a new branch, managing a team of 3, and grew trade counter sales to £250,000 annually within 4 years.
+            - Opened a new branch, leading a team of 3, and grew trade counter sales to £250,000 annually within 4 years.
